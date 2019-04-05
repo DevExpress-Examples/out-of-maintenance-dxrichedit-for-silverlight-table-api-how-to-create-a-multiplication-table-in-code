@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainPage.xaml](./CS/Table_API_Example/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/Table_API_Example/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/Table_API_Example/MainPage.xaml) (VB: [MainPage.xaml](./VB/Table_API_Example/MainPage.xaml))
 * [MainPage.xaml.cs](./CS/Table_API_Example/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/Table_API_Example/MainPage.xaml.vb))
 <!-- default file list end -->
 # DXRichEdit for Silverlight: Table API - How to create a multiplication table in code
